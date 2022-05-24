@@ -75,16 +75,20 @@ In summation, the three recommendations coming out of this analysis are:
 - Look into what type of animated films do well.
 
 ## For More Information
-See the full analysis in the [Jupyter Notebook]() or review this [presentation]().
+See the full analysis in the [Jupyter Notebook](/Movie Data Analysis.ipynb) or review this [presentation](/Phase1_Slideshow.pdf).
 
 For additional info, contact Rachel Sanderlin at [sanderlin2013@gmail.com](mailto:sanderlin2013@gmail.com)
 
 ## Repository Structure
 
 ```
-├── data
-├── images
-├── README.md
+├── Images
+├── zipped_data
+├──.gitignore
+├── Movie Data Analysis.ipynb
 ├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+├── Phase1_Slideshow.pdf
+├── Phase1_jupyter_notebook.pdf
+├── README.md
+└── requirements.txt
 ```
