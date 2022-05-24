@@ -86,7 +86,6 @@ For additional info, contact Rachel Sanderlin at [sanderlin2013@gmail.com](mailt
 ├── zipped_data
 ├──.gitignore
 ├── Movie Data Analysis.ipynb
-├── Animal_Shelter_Needs_Presentation.pdf
 ├── Phase1_Slideshow.pdf
 ├── Phase1_jupyter_notebook.pdf
 ├── README.md
