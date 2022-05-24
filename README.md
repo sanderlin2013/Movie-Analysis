@@ -75,7 +75,7 @@ In summation, the three recommendations coming out of this analysis are:
 - Look into what type of animated films do well.
 
 ## For More Information
-See the full analysis in the [Jupyter Notebook](/Movie Data Analysis.ipynb) or review this [presentation](/Phase1_Slideshow.pdf).
+See the full analysis in the [Jupyter Notebook](/Movie_Data_Analysis.ipynb) or review this [presentation](/Phase1_Slideshow.pdf).
 
 For additional info, contact Rachel Sanderlin at [sanderlin2013@gmail.com](mailto:sanderlin2013@gmail.com)
 
