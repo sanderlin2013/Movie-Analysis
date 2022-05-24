@@ -10,7 +10,11 @@ Entertainment is a huge, global market. According to [Forbes](https://www.forbes
 ## Business Problem
 While movies can be highly profitable, they are often expensive to produce. As such, it is important for Microsoft to look into what does- or does not- lead to financially successful movies. Analyzing movie success is complex, so this project has choosen a few elements to focus on. 
 
-### 3 Business Questions
+### Business Questions
+The specific questions that this project focuses on are as follows: 
+-Do certain genres result in higher grossing films?
+-Is there a relationship between specific actors and higher grossing films?
+-Do movies with higher average ratings result in higher grossing films?
 
 ## Data 
 In order to glean information relevant to movie-making we will be looking at two datasets from [IMDB](https://www.imdb.com/) and [Box Office Mojo](https://www.boxofficemojo.com/). 
