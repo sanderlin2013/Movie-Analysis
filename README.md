@@ -1,5 +1,5 @@
 # Analyzing the Money: The Magic Behind The Movies
-![leo meme Great Gatsby](C:\Flatiron\phase_1\Movie-Analysis\Images\Leo_meme.png)
+![leo meme Great Gatsby](.\Images\Leo_meme.png)
 
 **Author**: [Rachel Sanderlin](mailto:sanderlin2013@gmail.com)
 
