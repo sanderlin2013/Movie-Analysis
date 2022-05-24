@@ -85,7 +85,7 @@ For additional info, contact Rachel Sanderlin at [sanderlin2013@gmail.com](mailt
 ├── Images
 ├── zipped_data
 ├──.gitignore
-├── Movie Data Analysis.ipynb
+├── Movie_Data_Analysis.ipynb
 ├── Phase1_Slideshow.pdf
 ├── Phase1_jupyter_notebook.pdf
 ├── README.md
