@@ -53,6 +53,7 @@ Based on the graph below, we see that there are genres that have on average high
  
 Before, the analysis seemed to indicate that animated films are a direction for Microsoft's new movie studio to check out. Let's see if any of the top 15 actors were involved in animated films.
  ![third visualization](Images/top15_in_animation.png)
+ ![star legend](Images/star_legend.png)
  
 ### Do movies with higher average ratings result in higher grossing films?
 Based on the graph below, it doesn't seem like there is a strong correlation between the average ratings and the total gross. This is confirmed when we check Pearson's correlation (.23) which is not signifigant. 
