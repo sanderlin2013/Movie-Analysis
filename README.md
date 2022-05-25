@@ -29,7 +29,7 @@ In order to glean information relevant to movie-making we will be looking at two
 
 - Box Office Mojo is a site that tracks box-office revenue, and the data set we will be using from them contains this information. 
 
-By using these two datasets together, we can extract if certain aspects of a movie lead to higher box-office revenue, which is an industry standard for movie success. 
+By using these two datasets together, we can deduce if certain aspects of a movie lead to higher box-office revenue, which is an industry standard for movie success. 
 
 **Limitations** 
 
@@ -64,8 +64,8 @@ Based on the graph below, it doesn't seem like there is a strong correlation bet
  
 In summation, the three recommendations coming out of this analysis are:
 
- - The data indicates that there are specific genres that in the past have (on average) done very well. In particular, animation seems to have high on-average box office returns. As such, I would recommend that Microsoft focus its initial film-making energies on animated films, with co-genres of adventure, scifi, and fantasy.
-- There are actors that have a high median total foreign gross. These actors should be further analyzed when the movie making process is farther along to see if they would be a good fit in any of the initial films. It should be noted that 5/15 of the actors (33.3%) have worked on at least one animation film, and as such these actors should especially considered for possible future films at Microsoft's studio.
+ - Animation seems to have high on-average box office returns and as such, I would recommend that Microsoft focus its initial film-making energies on animated films, with co-genres of adventure, scifi, and fantasy.
+- There are actors that have a high median total foreign gross. These actors should be further analyzed when the movie making process is farther along to see if they would be a good fit in any of the initial films. It should be noted that 5/15 of the actors (33.3%) have worked on at least one animated film, and as such these actors should especially considered for possible future films at Microsoft's studio.
 - Finally, it seems that there is no significant correlation between film ratings and box office success - as such it is important to note that the quality of the movie has little to no bearing on a movie's box office success. In short, it's okay to skimp on film quality to a certain extent.
 
 ### Next Steps
